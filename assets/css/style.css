@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+#game {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin: 20px 0px 20px 0px;
+}
+
+.centered {
+    text-align: center;
+}
